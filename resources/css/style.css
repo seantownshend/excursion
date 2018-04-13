@@ -6,7 +6,6 @@ body {
 
 h1 {
   color: #ffffff;
-  font-family: Verdana;
   font-weight: Normal;
   font-size: 50px;
 }
@@ -25,10 +24,8 @@ h2 {
 p {
   color: gray;
   font-size: 21px;
-  font-family: Verdana;
 }
 
 .footer {
   text-align: right;
-  color: gray;
 }
